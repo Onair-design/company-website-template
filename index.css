@@ -1,0 +1,64 @@
+h3 {
+  text-align: center;
+  align-items: center;
+}
+
+i {
+  padding: 2px 4px;
+  color: #fff;
+}
+
+body {
+  height: auto;
+  margin: 0;
+  padding-top: 50px;
+  font-family: "Raleway";
+}
+
+h2 {
+  font-weight: bold;
+}
+.fa-leaf {
+  color: #191b1d;
+  position: relative;
+  top: -58px;
+  font-size: 40px;
+  border: 10px solid #f2f2f2;
+  background-color: #f2f2f2;
+}
+
+.haqqimizda {
+  background-color: #f2f2f2;
+}
+.hr1 {
+  border: none;
+  border-top: 3px solid #191b1d;
+  margin: 25px auto;
+  max-width: 250px;
+  background-color: #191b1d;
+}
+
+.leaf2 {
+  background-color: white;
+  border: 10px solid white;
+}
+
+.komanda img {
+  height: 300px;
+}
+
+.shadow:hover {
+  opacity: 0.8;
+}
+
+.galery {
+  background-color: #f2f2f2;
+}
+
+.g-photo:hover {
+  opacity: 0.8;
+}
+
+.carousel-caption {
+  background-color: #191b1d;
+}
